@@ -1,0 +1,662 @@
+
+    *
+	{
+	Padding: 0;
+Margin: 0;
+	Font-size:100%;
+	Line-height:1em;
+	}
+ @import url(https://fonts.googleapis.com/css?family=Cabin);
+
+body{
+       text-align: center;
+          background-image: url(../images/bg.png);
+   
+
+         }
+        
+@import url(https://fonts.googleapis.com/css?family=Droid+Sans:700);
+
+section {padding: 2em 0 2em 0}
+
+/*typography */
+.foundries
+
+{
+  list-style: none;
+}
+.foundries img
+{
+
+display:block;
+align-items:center;
+    float: left;
+    margin:
+    
+    
+
+
+}
+    
+header {
+  text-align: center;
+  text-transform: uppercase;
+}
+
+
+p {
+    margin-top: 1.5em;
+  line-height: 1.4em;
+    color: #333333;
+   font-family: 'Raleway', sans-serif;
+    font-size: 2em;
+    display:inline-block;
+    position: relative;
+    width: 50%;
+    
+}
+
+    
+
+#bq1
+{
+    
+     margin-top: 1.5em;
+  line-height: 1.4em;
+    color: #333333;
+   font-family: 'Raleway', sans-serif;
+    font-size:3em;
+    display:inline-block;
+    position: relative;
+    width: 80%;
+  
+}
+
+
+
+
+
+
+
+      
+     h1{font-size: 3.375em;}
+     
+
+h1{
+    margin-top: 1.5m;
+    
+    
+
+        color: #black;
+            line-height: 1.1em;
+  font-family: 'Josefin Sans', sans-serif;
+            width: 50%;
+            position: relative;
+           
+            
+             display: inline-block;
+    border-bottom: solid 4px #af4141;
+
+
+}
+
+
+.contacto
+{
+ margin-top: 3em;   
+    margin-bottom: 2EM;
+    
+}
+.B1
+{
+      width:200px;
+        height:200px;
+     display: inline-block;
+        -webkit-transition-duration: 0.5s;
+        transition-duration: 0.5s;
+        -webkit-transition-property: -webkit-transform;
+        transition-property: transform;
+        -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+        -webkit-transform: translateZ(0);
+        -ms-transform: translateZ(0);
+        transform: translateZ(0);
+        box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+    
+    
+    
+}
+.B1:HOVER
+
+        {
+        -webkit-transform: scale(1.1);
+        -ms-transform: scale(1.1);
+        transform: scale(1.1);
+        
+
+
+  opacity: 0.3;
+  transition: opacity .5s ease-in-out;
+   -moz-transition: opacity .5s ease-in-out;
+   -webkit-transition: opacity .5s ease-in-out;
+}
+
+.B1 a:hover {
+  opacity: 0.8;
+}
+
+
+
+
+
+
+
+
+
+
+
+.B2
+{
+  width:200px;
+        height:200px;   
+    display: inline-block;
+        -webkit-transition-duration: 0.5s;
+        transition-duration: 0.5s;
+        -webkit-transition-property: -webkit-transform;
+        transition-property: transform;
+        -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+        -webkit-transform: translateZ(0);
+        -ms-transform: translateZ(0);
+        transform: translateZ(0);
+        box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+    
+}
+
+
+.B2:HOVER
+
+        {
+        -webkit-transform: scale(1.1);
+        -ms-transform: scale(1.1);
+        transform: scale(1.1);
+        
+
+
+  opacity: 0.3;
+  transition: opacity .5s ease-in-out;
+   -moz-transition: opacity .5s ease-in-out;
+   -webkit-transition: opacity .5s ease-in-out;
+}
+
+
+.B2 a:hover {
+  opacity: 0.8;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.B3
+{
+   width:200px;
+        height:200px;  
+     display: inline-block;
+        -webkit-transition-duration: 0.5s;
+        transition-duration: 0.5s;
+        -webkit-transition-property: -webkit-transform;
+        transition-property: transform;
+        -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+        -webkit-transform: translateZ(0);
+        -ms-transform: translateZ(0);
+        transform: translateZ(0);
+        box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+    
+}
+
+    
+
+.B3:HOVER
+
+        {
+        -webkit-transform: scale(1.1);
+        -ms-transform: scale(1.1);
+        transform: scale(1.1);
+        
+
+
+  opacity: 0.3;
+  transition: opacity .5s ease-in-out;
+   -moz-transition: opacity .5s ease-in-out;
+   -webkit-transition: opacity .5s ease-in-out;
+}
+
+.B3 a:hover {
+  opacity: 0.8;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.B4{
+     width:200px;
+        height:200px;
+    display: inline-block;
+        -webkit-transition-duration: 0.5s;
+        transition-duration: 0.5s;
+        -webkit-transition-property: -webkit-transform;
+        transition-property: transform;
+        -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+        -webkit-transform: translateZ(0);
+        -ms-transform: translateZ(0);
+        transform: translateZ(0);
+        box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+    
+
+    
+}
+
+
+.B4:HOVER
+
+        {
+        -webkit-transform: scale(1.1);
+        -ms-transform: scale(1.1);
+        transform: scale(1.1);
+        
+
+
+  opacity: 0.3;
+  transition: opacity .50s ease-in-out;
+   -moz-transition: opacity .50s ease-in-out;
+   -webkit-transition: opacity .50s ease-in-out;
+}
+
+.B4 a:hover {
+  opacity: 0.8;
+}
+
+
+
+.anchor {
+text-transform:uppercase;
+font-size:.75em;
+}
+
+
+/*typography -----------------------------LINKS-------------------------*/
+
+
+
+.section-1
+    
+        
+        
+      {
+        ;
+          margin-top:10em;
+          position:relative;
+        padding: 10px 10px 120px 10px;
+       margin-bottom: 10em;
+        max-width: 75%;
+          
+        }
+
+   
+/*section2 ------------------------------------------------------*/
+
+
+
+        
+    
+    
+    
+}
+
+
+
+
+
+
+
+/*--------------SEction3------*/
+
+.section-3
+{
+    margin-top: 5em;
+    height:600px;
+    position:relative
+         padding: 10px 10px 120px 10px;
+    max-width: 100%;
+    
+    
+    
+}
+
+
+
+
+
+
+
+
+
+/*--------------------SECTION-MRS EAVES SEction-O-------------------*////
+
+.section-o
+{
+    
+    
+    
+    position:relative
+         padding: 10px 10px 10px 10px;
+    max-width: 100%;
+    padding-bottom: 100px;
+    
+    
+}
+
+
+
+
+/*-------------Section4----------------*/////
+.section-4
+{
+margin-top: 5em;
+    height:600px;
+    position:relative
+         padding: 10px 10px 120px 10px;
+    max-width: 100%;
+    
+}
+
+/*----------------------NAV-----------------------*/
+
+.ancor1
+        {
+        width:100px;
+        height:100px;
+        padding:50px;
+        z-index: 1;
+        position: fixed;
+        left: 10px;
+        top:140px;
+        display: inline-block;
+        -webkit-transition-duration: 0.3s;
+        transition-duration: 0.3s;
+        -webkit-transition-property: -webkit-transform;
+        transition-property: transform;
+        -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+        -webkit-transform: translateZ(0);
+        -ms-transform: translateZ(0);
+        transform: translateZ(0);
+        box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+        }
+
+.ancor1:hover 
+        {
+        -webkit-transform: scale(1.1);
+        -ms-transform: scale(1.1);
+        transform: scale(1.1);
+        }
+
+
+.ancor2
+        {
+        width:100px;
+        height:100px;
+        padding:50px;
+        z-index: 1;
+        position: fixed;
+        left: 10px;
+        top: 260px;
+        display: inline-block;
+        -webkit-transition-duration: 0.3s;
+        transition-duration: 0.3s;
+        -webkit-transition-property: -webkit-transform;
+        transition-property: transform;
+        -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+        -webkit-transform: translateZ(0);
+        -ms-transform: translateZ(0);
+        transform: translateZ(0);
+        box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+        }
+
+.ancor2:hover 
+        {
+        -webkit-transform: scale(1.1);
+        -ms-transform: scale(1.1);
+        transform: scale(1.1);
+        }
+
+.ancor3
+        {
+        width:100px;
+        height:100px;
+        padding:50px;
+        z-index: 1;
+        position: fixed;
+        left:10px;
+        top: 380px;
+        display: inline-block;
+        -webkit-transition-duration: 0.3s;
+        transition-duration: 0.3s;
+        -webkit-transition-property: -webkit-transform;
+        transition-property: transform;
+        -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+        -webkit-transform: translateZ(0);
+        -ms-transform: translateZ(0);
+        transform: translateZ(0);
+        box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+        }
+
+.ancor3:hover 
+        {
+        -webkit-transform: scale(1.1);
+        -ms-transform: scale(1.1);
+        transform: scale(1.1);
+        }
+
+
+
+.ancor4
+        {
+        width:100px;
+        height:100px;
+        padding:50px;
+        z-index: 1;
+        position: fixed;
+        left:10px;
+        top:500px;
+        display: inline-block;
+        -webkit-transition-duration: 0.3s;
+        transition-duration: 0.3s;
+        -webkit-transition-property: -webkit-transform;
+        transition-property: transform;
+        -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+        -webkit-transform: translateZ(0);
+        -ms-transform: translateZ(0);
+        transform: translateZ(0);
+        box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+        }
+
+.ancor4:hover 
+        {
+        -webkit-transform: scale(1.1);
+        -ms-transform: scale(1.1);
+        transform: scale(1.1);
+        }
+
+
+
+.vector
+        {
+            margin-top: 1em;
+        width:15%;
+        height:15%;
+        
+        display: inline-block;
+        -webkit-transition-duration: 0.3s;
+        transition-duration: 0.3s;
+        -webkit-transition-property: -webkit-transform;
+        transition-property: transform;
+        -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+        -webkit-transform: translateZ(0);
+        -ms-transform: translateZ(0);
+        transform: translateZ(0);
+        box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+        }
+
+.vector:hover 
+        {
+        -webkit-transform: scale(1.1);
+        -ms-transform: scale(1.1);
+        transform: scale(1.1);
+        }
+
+
+
+
+
+iframe
+        {
+        padding: 30px
+        }
+
+.section-o1
+
+{
+    
+    
+    
+    position:relative
+         padding: 10px 10px 10px 10px;
+    max-width: 100%;
+   
+    
+    
+
+}
+.section-o
+{
+    
+    
+    
+    position:relative
+         padding: 10px 10px 10px 10px;
+    max-width: 100%;
+   
+    
+    
+}
+
+    
+    /* ===========================FOOTER====================*/
+    
+    footer {
+        line-height: 1.9em;
+        
+    padding-top:1em;
+        padding-bottom: 1em;
+        font-size: 55%;
+        
+        
+    }
+    
+    
+    /*========================Table===============*/
+    
+
+
+
+
+
+
+/*-------------------phone--------------------------*/
+
+@media (max-width: 30em) {
+
+Body {
+Margin: auto 0;
+Font-size: 110%;
+}
+Article {
+Width: 90%;
+}
+H1{font-size: 2.9em;}
+
+Blockquote {margin: 0;
+Padding: 0;
+Line-height:1.5em}
+Hgroup h2 {font-size:1.5em;
+Padding-top: 0.5em}
+}
+
+@media (max-width:48em)
+{
+Body{
+Background: aqua;
+
+
+}
+    
+    /*--------------------------IMAGES-------*/
+
+    .oisin
+    {
+       font-family: 'roboto slab'; 
+        
+        
+    }
+
+
+    
+    /*-----fonts----*/
+    
+    @font-face {
+    font-family: 'Hallo-sans-black';
+    src: url(..fonts/Hallo-sans-black.otf);
+    font-weight: bold;
+}
+    
+     
+
+    about p:nth-of-type(1) { 
+  font-size: 1.5em; /* 24/16 */
+  line-height: 1.5em;
+}
+
+.about p {
+  padding-bottom: 20px;
+  text-align: justify;
+}
+    
+    
+
+    
+    
+    
+    /*-----GALLERY-----*/
+  

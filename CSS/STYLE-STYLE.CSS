@@ -1,0 +1,278 @@
+
+    *
+	{
+	Padding: 0;
+Margin: 0;
+	Font-size:100%;
+	Line-height:1em;
+	}
+ @import url(https://fonts.googleapis.com/css?family=Cabin);
+
+body{
+       text-align: center;
+          background-image: url(../images/bg.png);
+   
+
+         }
+        
+@import url(https://fonts.googleapis.com/css?family=Droid+Sans:700);
+
+section {padding: 2em 0 2em 0}
+
+/*typography */
+.foundries
+
+{
+  list-style: none;
+}
+.foundries img
+{
+
+display:block;
+align-items:center;
+    float: left;
+    margin:
+    
+    
+
+
+}
+    
+header {
+  text-align: center;
+  text-transform: uppercase;
+}
+
+
+p {
+    margin-top: 1.5em;
+  line-height: 1.4em;
+    color: #333333;
+   font-family: 'Raleway', sans-serif;
+    font-size: 2em;
+    display:inline-block;
+    position: relative;
+    width: 50%;
+    
+}
+
+    
+
+#bq1
+{
+    
+     margin-top: 1.5em;
+  line-height: 1.4em;
+    color: #333333;
+   font-family: 'Raleway', sans-serif;
+    font-size:3em;
+    display:inline-block;
+    position: relative;
+    width: 80%;
+  
+}
+
+
+
+#img1
+{
+    
+    
+    float: left;
+    
+    
+    }
+
+
+#h21
+{
+    margin-top: 1.5m;
+    
+    
+
+        color: #black;
+            line-height: 1.1em;
+  font-family: 'raleway', sans-serif;
+            width: 50%;
+            position: relative;
+           
+            
+             display: inline-block;
+    float: left;
+    
+    
+}
+      
+     h1{font-size: 3em;}
+     
+
+h1{
+    margin-top: 1.5m;
+    
+    
+
+        color: #black;
+            line-height: 1.1em;
+  font-family: 'raleway', sans-serif;
+            width: 50%;
+            position: relative;
+           float: left;
+            
+             display: inline-block;
+
+
+}
+
+
+h2 
+{margin-top: 1.5m;
+    
+    
+
+        color: #black;
+            line-height: 1.1em;
+  font-family: 'raleway', sans-serif;
+            width: 50%;
+            position: relative;
+           
+            
+             display: inline-block;}
+
+
+.anchor {
+text-transform:uppercase;
+font-size:.75em;
+}
+
+
+/*typography -----------------------------LINKS-------------------------*/
+
+
+
+
+   
+/*section2 ------------------------------------------------------*/
+
+
+
+        
+    
+    
+    
+}
+
+
+
+
+
+
+
+/*--------------SEction3------*/
+
+
+
+
+
+
+
+
+
+
+
+/*--------------------SECTION-MRS EAVES SEction-O-------------------*////
+
+
+
+
+/*-------------Section4----------------*/////
+
+
+/*----------------------NAV-----------------------*/
+
+
+
+
+
+    
+    /* ===========================FOOTER====================*/
+    
+    footer {
+        line-height: 1.9em;
+        
+    padding-top:1em;
+        padding-bottom: 1em;
+        font-size: 55%;
+        
+        
+    }
+    
+    
+    /*========================Table===============*/
+    
+
+
+
+
+
+
+/*-------------------phone--------------------------*/
+
+@media (max-width: 30em) {
+
+Body {
+Margin: auto 0;
+Font-size: 110%;
+}
+Article {
+Width: 90%;
+}
+H1{font-size: 2.9em;}
+
+Blockquote {margin: 0;
+Padding: 0;
+Line-height:1.5em}
+Hgroup h2 {font-size:1.5em;
+Padding-top: 0.5em}
+}
+
+@media (max-width:48em)
+{
+Body{
+Background: aqua;
+
+
+}
+    
+    /*--------------------------IMAGES-------*/
+
+   
+
+
+    
+    /*-----fonts----*/
+    
+    @font-face {
+    font-family: 'Hallo-sans-black';
+    src: url(..fonts/Hallo-sans-black.otf);
+    font-weight: bold;
+}
+    
+     
+
+    about p:nth-of-type(1) { 
+  font-size: 1.5em; /* 24/16 */
+  line-height: 1.5em;
+}
+
+.about p {
+  padding-bottom: 20px;
+  text-align: justify;
+}
+    
+    
+
+    
+    
+    
+    /*-----GALLERY-----*/
+  

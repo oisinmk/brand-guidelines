@@ -1,0 +1,40 @@
+
+    *
+	{
+	Padding: 0;
+Margin: 0;
+	Font-size:100%;
+	Line-height:1em;
+	}
+ 
+
+body{
+    
+   
+
+    
+    
+    
+         width:100%;
+         
+         
+         font-size: 85%;
+         
+            
+         
+         margin:auto;
+   
+    
+    
+    margin-top: 0em;
+         color: #ffffff;
+         
+    
+    line-height: 1.5em;
+       
+  
+   background: url(../images/grey.jpg);
+
+    
+
+         }
